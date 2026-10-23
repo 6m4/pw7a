@@ -72,3 +72,12 @@ function loadXWidget() {
   }
   announcements.append(article);
 });
+
+// 外部リンクは新しいタブで開きます。ページ内移動とメールは対象外です。
+function setExternalLinkTarget(link) {
+  if (/^https?:$/.test(link.protocol)) {
+    link.target = '_blank';
+    link.rel = 'noopener noreferrer';
+  }
+}
+document.querySelectorAll('a[href]').forEach(setExternalLinkTarget);

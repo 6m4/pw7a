@@ -30,3 +30,10 @@
 
 .contact-info{padding:55px 0}.contact-info h2{font-size:24px}.contact-info p{font-size:13px;margin-bottom:12px}.contact-info a{text-decoration:underline;text-underline-offset:4px}#contact{scroll-margin-top:40px}
 
+
+/* 各コンテンツ間の余白を約50px追加 */
+.section-links{margin-top:74px}.details{margin-top:50px;row-gap:90px}.contact-info{margin-top:50px}
+
+
+.section-links + .announcements{margin-top:30px}
+
