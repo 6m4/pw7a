@@ -9,6 +9,21 @@ window.PW7A_CONFIG = {
   "itch": "https://suika-tabetabe-usagi.itch.io/pw7a",
   "announcements": [
     {
+      "date": "2026-10-24",
+      "title": "「INDIE Live Expo 2026.12.1」で『PW7A』が紹介されます",
+      "body": "公式配信ページ（2026年12月1日）",
+      "url": "https://youtube.com/live/krDhAbrT0No"
+    },
+    {
+      "date": "2026-10-24",
+      "title": "Steam版『PW7A』の配信日が2026年12月1日に決定しました",
+      "tweetUrl": "https://x.com/8m410/status/2113799027276079457?s=20"
+    },
+    {
+      "date": "2026-10-24",
+      "title": "『PW7A』公式サイトを公開しました"
+    },
+    {
       "date": "2026-10-18",
       "title": "Game*Sparkにインタビューが掲載されました",
       "url": "https://www.gamespark.jp/article/2026/10/18/173762.html",
